@@ -1,55 +1,55 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
-  - `instanceof`
-  - `...spread`
-  - `...rest`
-  - `typeof`
-  - Destructuring
-  - Generators
-  - Iterators
-  - Async generator
-  - Async iterator
-  - Chaining
-  - Optional chaining
-  - IIFE
+  - `Object` *
+  - `Function` *
+  - `Boolean` *
+  - `Number` ~
+  - `BigInt` ~
+  - `String` *
+  - `Symbol` ~
+  - `Infinity` *
+  - `NaN` *
+  - `undefined` *
+  - `null` *
+  - `this` *
+  - `instanceof` *
+  - `...spread` *
+  - `...rest` *
+  - `typeof` *
+  - Destructuring ~
+  - Generators ~
+  - Iterators ~
+  - Async generator ~
+  - Async iterator ~
+  - Chaining ~
+  - Optional chaining ~
+  - IIFE 
   - Async IIFE
-  - `global`
-  - `globalThis`
-  - `window`
-  - Getters and setters
-  - `__proto__`
-  - `prototype`
-  - Equality operators
-  - Logical operators
-  - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
-  - `void`
-  - `yield`
-  - `await`
-  - Template literal
-  - Strict mode
-  - Hoisting
-  - `delete`
+  - `global` ~
+  - `globalThis` ~
+  - `window` ~
+  - Getters and setters *
+  - `__proto__` ~
+  - `prototype` ~
+  - Equality operators *
+  - Logical operators *
+  - Logical Assignment ~
+  - Bitwise operators *
+  - Ternary operator *
+  - `void` ~
+  - `yield` ~
+  - `await` *
+  - Template literal 
+  - Strict mode ~
+  - Hoisting *
+  - `delete` ~
   - `in`
-  - `super`
+  - `super` 
   - `eval`
   - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
+  - `Number.parseInt` *
+  - `Number.parseFloat` *
   - Property descriptors
   - Sealing properties
   - Freezing properties
@@ -59,63 +59,63 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
+  - `if` *
+  - `while` *
+  - `do..while` *
+  - `for` *
+  - `for..in` *
+  - `for..of` *
   - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
-  - `export`
-  - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
-  - `extends`
+  - `throw` *
+  - `break` *
+  - `continue` *
+  - `import` *
+  - `export` *
+  - `label`~
+  - `try..catch` *
+  - `switch` *
+  - `class` *
+  - `extends` ~
   - `with`
-  - `new`
+  - `new` *
 - Functions
-  - Arrow function
-  - Async function
-  - Function declaration
-  - Function expression
-  - Default parameters
-  - Functional object
-  - `Function.prototype.call`
-  - `Function.prototype.bind`
-  - `Function.prototype.apply`
-  - `return`
+  - Arrow function *
+  - Async function *
+  - Function declaration *
+  - Function expression *
+  - Default parameters *
+  - Functional object ~
+  - `Function.prototype.call` ~
+  - `Function.prototype.bind` ~
+  - `Function.prototype.apply` ~
+  - `return` *
 - Data structures
-  - `Array`
-  - `Map`
-  - `Set`
+  - `Array` *
+  - `Map` *
+  - `Set` *
   - Weak collections
-  - Typed arrays
-  - Mixins
+  - Typed arrays ~
+  - Mixins ~
   - `Object.assign`
 - Standard classes and namespaces
-  - `Proxy`
-  - `RegExp`
-  - `Date`
-  - `Math`
+  - `Proxy` ~
+  - `RegExp` *
+  - `Date` *
+  - `Math` *
   - `Reflect`
-  - `Error`
+  - `Error` ~
   - `Atomics`
-  - `JSON`
+  - `JSON` *
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
-  - `console`
-  - Timers
+  - `Promise` ~
+  - `console` *
+  - Timers ~
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
+  - V8 *
+  - Node.js *
+  - npm *
   - prettier
-  - MDN
+  - MDN *
   - TC39
