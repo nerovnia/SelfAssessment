@@ -1,50 +1,50 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
+  - Procedural programming explained
+  - Imperative programming explained
+  - Structured programming explained
+  - Non-structured programming 
+  - Functional programming used
+  - Prototype-based programming used
+  - Object-oriented programming explained
+  - Object-based programming explained
   - Generic programming
-  - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
-  - Reactive programming
+  - Concurrent computing heard
+  - Asyncronous programming used
+  - Parallel programming heard
+  - Reactive programming used
   - Functional-reactive (FRP)
-  - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
+  - Automata-based programming heard
+  - Domain-specific languages 
+  - Multi-paradigm programming explained
+  - Metaprogramming heard
   - Actor model
   - Lambda calculus
-  - Black box
+  - Black box used
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
+  - Constructor explained
+  - Operator `new` explained
+  - Static method explained
+  - Method explained
+  - Async method known
+  - Getters, Setters explained
+  - Public fields explained
+  - Private fields explained
+  - Field declarations explained
+  - Inheritance explained
+  - Parent class explained
+  - Polymorphism used
+  - Abstract class explained
+  - Interface explained
+  - Encapsulation explained
   - Hidden class
   - Object form
-  - Instance
+  - Instance explained
   - Introspection
   - Reflection
   - The diamond problem
@@ -58,11 +58,11 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP)
-  - Open–closed principle (OCP)
-  - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP)
+  - Single-responsibility principle (SRP) heard
+  - Open–closed principle (OCP) heard
+  - Liskov substitution principle (LSP) heard
+  - Interface segregation principle (ISP) heard
+  - Dependency inversion principle (DIP) heard
 - Patterns
   - Singleton
   - Factory Method

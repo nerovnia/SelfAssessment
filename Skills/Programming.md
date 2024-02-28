@@ -1,102 +1,102 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
-  - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Model explained
+  - Modeling explained
+  - Subject domain 
+  - Algorithm explained
+  - Syntax known
+  - Semantics known
+  - Abstraction known
+  - Paradigm known
+  - Programm explained known
+  - Programming paradigm known
+  - Programming language known
   - Contract
-  - Module
-  - Library
-  - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
-  - Object code
-  - Machine code
-  - Microcode
-  - Software engineering
-  - Decomposition
+  - Module explained
+  - Library explained
+  - Package explained
+  - Component explained
+  - Framework explained
+  - Platform explained
+  - Source code explained
+  - Object code heard
+  - Machine code explained
+  - Microcode explained
+  - Software engineering used
+  - Decomposition explained
   - Control flow
   - Data flow
-  - Code reuse
+  - Code reuse explained
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY) explained
+  - KISS principle explained
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
+  - Value explained
+  - Identifier explained
+  - Variable explained
+  - Constant explained
+  - Scalar 
   - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Flag
-  - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
-  - Interface
-  - Namespaces
-  - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
+  - Expression explained
+  - Heap explained
+  - Function explained
+  - Procedure explained
+  - Method explained
+  - Class explained
+  - Prototype known
+  - Event explained
+  - Type explained
+  - Flag explained
+  - Lexical scope explained
+  - Code block explained
+  - Conditions explained
+  - Loops explained
+  - Assignment explained
+  - Regular expression 
+  - Interface explained
+  - Namespaces explained
+  - Call stack heard
+  - Naming conventions explained
+  - Coding conventions explained
+  - Camel case explained
+  - Snake case explained
+  - Kebab case explained
   - Trailing commas
-  - Return early
-  - Fail-fast
+  - Return early explained
+  - Fail-fast explained
 - Types
-  - Primitive types
-  - Reference types
-  - Type systems
-  - Strong typing
-  - Weak typeing
+  - Primitive types explained
+  - Reference types explained
+  - Type systems known
+  - Strong typing explained
+  - Weak typeing explained
   - Duck typing
-  - Static typing
-  - Dynamic typing
-  - Nominal typing
-  - Structural typing
+  - Static typing heard
+  - Dynamic typing heard
+  - Nominal typing 
+  - Structural typing heard
   - Explicit typing
   - Type inference
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
-  - Side effects
-  - Closure
+  - Signature explained
+  - Argument explained
+  - Parameter explained
+  - Pure function explained
+  - Lambda expression explained
+  - Side effects heard
+  - Closure explained
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursion explained
   - Tail call optimisation
-  - Callback
-  - Listener
+  - Callback used
+  - Listener used
   - Composition
-  - Pipe
+  - Pipe used
   - Memoize
   - Wrapper
   - Functor
@@ -105,135 +105,135 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
-  - Record
-  - Enum
-  - Instance
-  - Cbject
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
+  - Array explained
+  - Structure explained
+  - Record heard
+  - Enum explained
+  - Instance explained
+  - Cbject explained
+  - Collection explained
+  - Set explained
+  - Hash table known
+  - Linked list explained
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
+  - Queue explained
+  - Stack explained
   - Deque
-  - Tree
-  - Graph
-  - Iterator
-  - Mutable state
-  - Immutable state
-  - Serialization
-  - String parsing
-  - JSON
-  - JSON5
-  - YAML
+  - Tree known
+  - Graph known
+  - Iterator known
+  - Mutable state heard
+  - Immutable state heard
+  - Serialization heard
+  - String parsing explained
+  - JSON explained
+  - JSON5 explained
+  - YAML explained
 - Networking
-  - DNS
-  - CDN
-  - CORS
-  - IPv4
-  - IPv6
-  - NAT
-  - URL
+  - DNS known
+  - CDN known
+  - CORS known
+  - IPv4 known
+  - IPv6 known
+  - NAT known
+  - URL known
   - URN
-  - URI
+  - URI known
 - Process and tools
-  - Compiler
-  - Just-in-time compilation
-  - Ahead-of-time compilation
+  - Compiler known
+  - Just-in-time compilation known
+  - Ahead-of-time compilation known
   - Transpiler
-  - Linter
+  - Linter 
   - Polyfill
-  - Interpreter
-  - Linker
+  - Interpreter known
+  - Linker known
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine
+  - Virtual machine known
   - Register-based VM
   - Stack-based VM
-  - Containerization
-  - Debugger
-  - Tracing
-  - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
-  - Unittesting
-  - git
-  - Hithub
-  - Docker
-  - Kubernetes
-  - GCC
-  - LLVM
+  - Containerization known
+  - Debugger known
+  - Tracing known
+  - Garbage collection known
+  - Refactoring known
+  - Code review known
+  - Exception known
+  - Unittesting known
+  - git known
+  - Hithub known
+  - Docker known
+  - Kubernetes known
+  - GCC known
+  - LLVM known
 - Antipatterns
   - Magic numbers
-  - Hard code
-  - Soft code
-  - Cryptic code
+  - Hard code known
+  - Soft code known
+  - Cryptic code known
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
-  - Silver bullet
+  - Spaghetti known
+  - Silver bullet known
   - Not invented here
-  - Dead code
+  - Dead code known
   - Unreachable code
-  - Duplicate code
+  - Duplicate code known
   - Premature optimization
   - Micro-optimization
   - Nested loops
   - Long method/function/procedure
-  - Long inheritance
-  - Large class/file
-  - Too many parameters
+  - Long inheritance known
+  - Large class/file known
+  - Too many parameters known
   - Pass-through parameters
-  - Accumulate and fire
-  - Use switch/case
-  - Temporary field
+  - Accumulate and fire known
+  - Use switch/case known
+  - Temporary field known
   - Handle object as instances and hashes at the same time
-  - Use fields instead of arguments
+  - Use fields instead of arguments known
   - Data clump
   - Feature envy
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode
-  - V8
-  - VJM
+  - Bytecode known
+  - V8 known
+  - VJM heard
   - CLR
   - Mono
 - Operation systems
-  - Interrupts
-  - Drivers
-  - Kernel
-  - Ring
-  - Virtual memory
-  - File system
-  - Linux
-  - Unix
-  - BSD
-  - MacOS
-  - Windows
-  - Real-time OS
+  - Interrupts known
+  - Drivers known
+  - Kernel known
+  - Ring 
+  - Virtual memory known
+  - File system known
+  - Linux known
+  - Unix known
+  - BSD known
+  - MacOS known
+  - Windows known
+  - Real-time OS heard
   - Embedded OS
 - Standards
-  - ASCII
-  - Escape sequence
-  - RFC
-  - IETF
-  - IANA
-  - IEEE
-  - Base64
-  - ECMA
-  - ICANN
-  - ISO
-  - MIME
-  - OWASP
-  - UTF-8
-  - W3C
-  - ODMG
+  - ASCII known
+  - Escape sequence known
+  - RFC known
+  - IETF heard
+  - IANA known
+  - IEEE known
+  - Base64 known
+  - ECMA known
+  - ICANN heard
+  - ISO heard
+  - MIME known
+  - OWASP heard
+  - UTF-8 known
+  - W3C known
+  - ODMG heard
