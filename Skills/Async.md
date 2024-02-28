@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop known
-  - `try..catch` used
-  - Non-blocking used
-  - Async I/O used
+  - Event loop: 🎓 known
+  - `try..catch`: 🖐️ used
+  - Non-blocking: 🖐️ used
+  - Async I/O: 🖐️ used
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -22,23 +22,23 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks known
-  - Callback-last-error-first known
+  - Callbacks: 🎓 known
+  - Callback-last-error-first: 🎓 known
   - Thenable
-  - Promise used
-  - Async/await used
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event known
+  - Event: 🎓 known
   - Coroutine
   - Goroutine
   - Signal
   - Stream
   - Chain of responsibility
-  - Middleware used
+  - Middleware: 🖐️ used
   - Locks
 - Async adapters and utils
   - callbackify
@@ -59,7 +59,7 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers known
+  - Timers: 🎓 known
   - `setImmediate`
   - `nextTick`
   - AbortController

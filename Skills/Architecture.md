@@ -1,15 +1,15 @@
 ## Architecture
 
 - Application structure
-  - Modularity used
-  - Components used
-  - Directories used
-  - GRASP heard
-  - SOLID heard
+  - Modularity: 🖐️ used
+  - Components: 🖐️ used
+  - Directories: 🖐️ used
+  - GRASP: 👂 heard
+  - SOLID: 👂 heard
   - GoF patterns
   - CQS
   - Leaking abstractions
-  - Multiparadigm code known
+  - Multiparadigm code: 🎓 known
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
@@ -24,16 +24,16 @@
   - Flexibility
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer heard
+  - Isolation between layer: 👂 heard
   - Domain-specific language (DSL)
   - System vs applied code
-  - Multilayer approach heard
-  - Hexagonal architecture heard
+  - Multilayer approach: 👂 heard
+  - Hexagonal architecture: 👂 heard
   - Separation of concerns (SoC)
-  - Metaprogramming heard
+  - Metaprogramming: 👂 heard
   - Inversion of control (IoC)
   - Dependency injection (DI)
-  - Clean architecture heard
+  - Clean architecture: 👂 heard
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
@@ -45,19 +45,19 @@
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML known
+  - UML: 🎓 known
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
   - High-intensive computing
-  - Load balancing known
+  - Load balancing: 🎓 known
   - Gateways
   - On-premises
   - IaaS
   - PaaS
   - SaaS
   - FaaS clouds
-  - Serverless known
+  - Serverless: 🎓 known
   - Vendor lock-in
   - Bus factor
 - Solution architecture
@@ -70,10 +70,10 @@
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds known
+  - Clouds: 🎓 known
   - BPMN
-  - Low-code known
-  - No-code known
+  - Low-code: 🎓 known
+  - No-code: 🎓 known
   - Metric
   - Metric abuse
   - ACID

@@ -1,50 +1,50 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming explained
-  - Imperative programming explained
-  - Structured programming explained
-  - Non-structured programming 
-  - Functional programming used
-  - Prototype-based programming used
-  - Object-oriented programming explained
-  - Object-based programming explained
+  - Procedural programming: 🙋 explained
+  - Imperative programming: 🙋 explained
+  - Structured programming: 🙋 explained
+  - Non-structured programming
+  - Functional programming: 🖐️ used
+  - Prototype-based programming: 🖐️ used
+  - Object-oriented programming: 🙋 explained
+  - Object-based programming: 🙋 explained
   - Generic programming
-  - Concurrent computing heard
-  - Asyncronous programming used
-  - Parallel programming heard
-  - Reactive programming used
+  - Concurrent computing: 👂 heard
+  - Asyncronous programming: 🖐️ used
+  - Parallel programming: 👂 heard
+  - Reactive programming: 🖐️ used
   - Functional-reactive (FRP)
-  - Automata-based programming heard
-  - Domain-specific languages 
-  - Multi-paradigm programming explained
-  - Metaprogramming heard
+  - Automata-based programming: 👂 heard
+  - Domain-specific languages
+  - Multi-paradigm programming: 🙋 explained
+  - Metaprogramming: 👂 heard
   - Actor model
   - Lambda calculus
-  - Black box used
+  - Black box: 🖐️ used
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor explained
-  - Operator `new` explained
-  - Static method explained
-  - Method explained
-  - Async method known
-  - Getters, Setters explained
-  - Public fields explained
-  - Private fields explained
-  - Field declarations explained
-  - Inheritance explained
-  - Parent class explained
-  - Polymorphism used
-  - Abstract class explained
-  - Interface explained
-  - Encapsulation explained
+  - Constructor: 🙋 explained
+  - Operator `new`: 🙋 explained
+  - Static method: 🙋 explained
+  - Method: 🙋 explained
+  - Async method: 🎓 known
+  - Getters, Setters: 🙋 explained
+  - Public fields: 🙋 explained
+  - Private fields: 🙋 explained
+  - Field declarations: 🙋 explained
+  - Inheritance: 🙋 explained
+  - Parent class: 🙋 explained
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🙋 explained
+  - Interface: 🙋 explained
+  - Encapsulation: 🙋 explained
   - Hidden class
   - Object form
-  - Instance explained
+  - Instance: 🙋 explained
   - Introspection
   - Reflection
   - The diamond problem
@@ -58,11 +58,11 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP) heard
-  - Open–closed principle (OCP) heard
-  - Liskov substitution principle (LSP) heard
-  - Interface segregation principle (ISP) heard
-  - Dependency inversion principle (DIP) heard
+  - Single-responsibility principle (SRP): 👂 heard
+  - Open–closed principle (OCP): 👂 heard
+  - Liskov substitution principle (LSP): 👂 heard
+  - Interface segregation principle (ISP): 👂 heard
+  - Dependency inversion principle (DIP): 👂 heard
 - Patterns
   - Singleton
   - Factory Method
