@@ -1,51 +1,51 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
+  - Strong and weak sides of node.js 🙋 explained
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code: 🙋 explained
-  - Event loop phases: 👂 heard
+  - Event loop phases: 🎓 known
   - Event loop microtasks and macrotasks: 🎓 known
-  - Garbage collection: 🎓 known
-  - Node.js LTS schedule
+  - Garbage collection: 🙋 explained
+  - Node.js LTS schedule 🎓 known
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules: 🖐️ used
-  - ECMAScript modules: 🖐️ used
-  - Module `node:module`
+  - CommonJS modules: 🙋 explained
+  - ECMAScript modules: 🙋 explained
+  - Module `node:module` 🖐️ used
   - Caching in CJS and ESM
-  - Modules as singletons: 🖐️ used
-  - Contexts and scripts module `node:vm`
+  - Modules as singletons: 🙋 explained
+  - Contexts and scripts module `node:vm` h
   - Dependencies: `npm`, `node_modules`: 🙋 explained
   - Files `package.json`, `package-lock.json`: 🙋 explained
   - Module-based permissions model
-  - Isolation with modularity
+  - Isolation with modularity 
   - Dependency injection
   - DI containers
-  - Coupling and cohesion
-  - Framework agnostic approach
+  - Coupling and cohesion u
+  - Framework agnostic approach k
 - Environment
-  - Command line arguments: 🎓 known
+  - Command line arguments: 🖐️ used
   - Node.js CLI: 🖐️ used
   - Process-based permissions
   - Graceful shutdown: 🎓 known
   - Clustering: 🎓 known
-  - Watch filesystem changes with --watch
+  - Watch filesystem changes with --watch h
 - Internal API
   - Streams API
   - Web Streams API
-  - Crypto API
-  - Password hashing with crypto.scrypt
+  - Crypto API u
+  - Password hashing with crypto.scrypt u
   - Web Crypto API
-  - File system API (sync and async)
-  - Copy folder recursively: 🎓 known
-  - Worker threads
+  - File system API (sync and async) u
+  - Copy folder recursively: u
+  - Worker threads h
   - Performance hooks
-  - Native fetch and nodejs/undici
-  - async_hooks
-  - AsyncLocalStorage
-  - AsyncResource
+  - Native fetch and nodejs/undici u
+  - async_hooks h
+  - AsyncLocalStorage h
+  - AsyncResource 
   - Deprecated domain API
   - Node.js single executable
   - SharedArrayBuffer
@@ -64,13 +64,13 @@
   - ALPN
   - SNI callback
   - SSL certificates: 🖐️ used
-  - Protocol agnostic approach
-  - Fetch API: 🎓 known
+  - Protocol agnostic approach h
+  - Fetch API: 🖐️ used
   - IncomingMessage
-  - HTTP(S): 🎓 known
-  - TCP/SSL: 🎓 known
+  - HTTP(S): 🖐️ used
+  - TCP/SSL: 🖐️ used
   - UDP: 🎓 known
-  - TLS
+  - TLS 🖐️ used
   - Websocket
   - SSE
   - HTTP/3 (QUIC)
@@ -89,11 +89,11 @@
   - keep-alive: 👂 heard
   - IP sticky sessions
 - Technique and tools
-  - Native test runner
+  - Native test runner 🖐️ used
   - Logging: 🖐️ used
   - Application configuring: 🖐️ used
   - Testing: 🖐️ used
-  - CI/CD: 👂 heard
+  - CI/CD: 🙋 explained
   - Readable
   - Writable
   - Transform
@@ -103,12 +103,12 @@
   - Inspector
 - Data access
   - Data access layer
-  - Repository
+  - Repository 
   - Active record
-  - Query builder
-  - Object-Relational Mapping
-  - CRUD
-  - DTO
+  - Query builder 🙋 explained
+  - Object-Relational Mapping 🙋 explained
+  - CRUD 🙋 explained
+  - DTO h
 - Error handling and debugging
   - `Error`
   - `error.cause`
@@ -126,18 +126,18 @@
   - Data race
 - Integrations and bindings
   - Native addons
-  - `C` and `C++` addons
-  - `Rust` addons
-  - `Zig` addons
+  - `C` and `C++` addons h
+  - `Rust` addons h
+  - `Zig` addons h
   - NAN (Native Abstractions for Node.js)
-  - Node-API (formerly N-API)
-  - NAPI `C` and `C++`
-  - NAPI `Rust`
-  - NAPI `Zig`
-  - Webassembly `WAT`
-  - Webassembly `C` and `C++`
-  - Webassembly `Rust`
-  - Webassembly `Zig`
-  - Webassembly `AssemblyScript`
+  - Node-API (formerly N-API) h
+  - NAPI `C` and `C++` h
+  - NAPI `Rust` h
+  - NAPI `Zig` h
+  - Webassembly `WAT` h
+  - Webassembly `C` and `C++` h
+  - Webassembly `Rust` h
+  - Webassembly `Zig` h
+  - Webassembly `AssemblyScript` h
   - Shared memory: 👂 heard
-  - V8 binary serialization
+  - V8 binary serialization h
