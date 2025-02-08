@@ -90,12 +90,13 @@
   - `Function.prototype.apply`: 🎓 known
   - `return`: 🙋 explained
 - Data structures
-  - `Array`: 🙋 explained
-  - `Map`: 🙋 explained
-  - `Set`: 🙋 explained
-  - Weak collections 🎓 known
-  - Typed arrays: 🎓 known
-  - Mixins: 🎓 known
+  - `Array`
+  - `Map`
+  - `Set`
+  - `WeakMap`
+  - `WeakSet`
+  - Typed arrays
+  - Mixins
   - `Object.assign`
 - Standard classes and namespaces
   - `Proxy`: 👂 heard

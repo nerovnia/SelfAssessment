@@ -24,11 +24,11 @@
 - Relational
   - Entity-Relationship Diagram
   - Normal forms
-  - Indexing: 🎓 known
-  - Promary keys: 🎓 known
-  - Foreign keys: 🎓 known
-  - Transactions: 🎓 known
-  - Views: 🎓 known
+  - Indexing
+  - Primary keys
+  - Foreign keys
+  - Transactions
+  - Views
   - Subqueries
   - Stored procedures: 🎓 known
   - SQL functions
@@ -90,5 +90,5 @@
   - Big data
   - Data analysis
   - AI tools
-  - Cloud databses
+  - Cloud databases
   - Data Visualization

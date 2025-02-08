@@ -66,11 +66,11 @@
   - Return early: 🙋 explained
   - Fail-fast: 🙋 explained
 - Types
-  - Primitive types: 🙋 explained
-  - Reference types: 🙋 explained
-  - Type systems: 🎓 known
-  - Strong typing: 🙋 explained
-  - Weak typeing: 🙋 explained
+  - Primitive types
+  - Reference types
+  - Type systems
+  - Strong typing
+  - Weak typing
   - Duck typing
   - Static typing: 👂 heard
   - Dynamic typing: 👂 heard
@@ -105,16 +105,16 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array: 🙋 explained
-  - Structure: 🙋 explained
-  - Record: 👂 heard
-  - Enum: 🙋 explained
-  - Instance: 🙋 explained
-  - Cbject: 🙋 explained
-  - Collection: 🙋 explained
-  - Set: 🙋 explained
-  - Hash table: 🎓 known
-  - Linked list: 🙋 explained
+  - Array
+  - Structure
+  - Record
+  - Enum
+  - Instance
+  - Object
+  - Collection
+  - Set
+  - Hash table
+  - Linked list
   - Doubly list
   - Unrolled list
   - Circular list
@@ -156,20 +156,20 @@
   - Virtual machine: 🎓 known
   - Register-based VM
   - Stack-based VM
-  - Containerization: 🎓 known
-  - Debugger: 🎓 known
-  - Tracing: 🎓 known
-  - Garbage collection: 🎓 known
-  - Refactoring: 🎓 known
-  - Code review: 🎓 known
-  - Exception: 🎓 known
-  - Unittesting: 🎓 known
-  - git: 🎓 known
-  - Hithub: 🎓 known
-  - Docker: 🎓 known
-  - Kubernetes: 🎓 known
-  - GCC: 🎓 known
-  - LLVM: 🎓 known
+  - Containerization
+  - Debugger
+  - Tracing
+  - Garbage collection
+  - Refactoring
+  - Code review
+  - Exception
+  - Unittesting
+  - git
+  - Github
+  - Docker
+  - Kubernetes
+  - GCC
+  - LLVM
 - Antipatterns
   - Magic numbers
   - Hard code: 🎓 known
@@ -207,10 +207,10 @@
   - VJM: 👂 heard
   - CLR
   - Mono
-- Operation systems
-  - Interrupts: 🎓 known
-  - Drivers: 🎓 known
-  - Kernel: 🎓 known
+- Operating systems
+  - Interrupts
+  - Drivers
+  - Kernel
   - Ring
   - Virtual memory: 🎓 known
   - File system: 🎓 known

@@ -1,13 +1,18 @@
 ## Architecture
 
 - Application structure
-  - Modularity: 🖐️ used
-  - Components: 🖐️ used
-  - Directories: 🖐️ used
-  - GRASP: 👂 heard
-  - SOLID: 👂 heard
-  - GoF patterns
+  - Separation of concerns
+  - Inversion of Control
+  - Dependency Injection
+  - GoF Creational
+  - GoF Structural
+  - GoF Behavioral
+  - GRASP
+  - SOLID
   - CQS
+  - Modularity
+  - Subsystems
+  - Directories
   - Leaking abstractions
   - Multiparadigm code: 🎓 known
   - Contract programming

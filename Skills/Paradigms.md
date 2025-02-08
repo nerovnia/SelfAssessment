@@ -10,10 +10,10 @@
   - Object-oriented programming: 🙋 explained
   - Object-based programming: 🙋 explained
   - Generic programming
-  - Concurrent computing: 👂 heard
-  - Asyncronous programming: 🖐️ used
-  - Parallel programming: 👂 heard
-  - Reactive programming: 🖐️ used
+  - Concurrent computing
+  - Asynchronous programming
+  - Parallel programming
+  - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming: 👂 heard
   - Domain-specific languages
