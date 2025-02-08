@@ -8,7 +8,7 @@
   - `BigInt`:  🙋 explained
   - `String`: 🙋 explained
   - `Symbol`: 👂 heard
-  - `Infinity`: 👂 heard
+  - `Infinity`: e
   - `NaN`: 🙋 explained
   - `undefined`: 🙋 explained
   - `null`: 🙋 explained
@@ -18,7 +18,7 @@
   - `...rest`:  🙋 explained
   - `typeof`:  🙋 explained
   - Destructuring:  🙋 explained
-  - Generators: 👂 heard
+  - Generators: u
   - Iterators: 👂 heard
   - Async generator: 👂 heard
   - Async iterator: 👂 heard
@@ -38,7 +38,7 @@
   - Bitwise operators: 🙋 explained
   - Ternary operator: 🙋 explained
   - `void`:  🙋 explained
-  - `yield`: 👂 heard
+  - `yield`: u
   - `await`:  🙋 explained
   - Template literal
   - Strict mode: 🙋 explained
@@ -65,7 +65,7 @@
   - `for`: 🙋 explained
   - `for..in`: 🙋 explained
   - `for..of`: 🙋 explained
-  - `for await`
+  - `for await`: h
   - `throw`:  🙋 explained
   - `break`: 🙋 explained
   - `continue`: 🙋 explained
@@ -90,11 +90,11 @@
   - `Function.prototype.apply`: 🎓 known
   - `return`: 🙋 explained
 - Data structures
-  - `Array`
-  - `Map`
-  - `Set`
-  - `WeakMap`
-  - `WeakSet`
+  - `Array`: e
+  - `Map`: e
+  - `Set`: e
+  - `WeakMap`: e
+  - `WeakSet`: e
   - Typed arrays
   - Mixins
   - `Object.assign`
