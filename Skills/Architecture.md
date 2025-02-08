@@ -8,31 +8,31 @@
   - GoF Structural
   - GoF Behavioral
   - GRASP
-  - SOLID
+  - SOLID: 🎓 known
   - CQS
-  - Modularity
+  - Modularity: 🎓 known
   - Subsystems
-  - Directories
+  - Directories: 🎓 known
   - Leaking abstractions
   - Multiparadigm code: 🎓 known
   - Contract programming
-  - Platform-agnostic
-  - Transport-agnostic
-  - Framework-agnostic
+  - Platform-agnostic: 🎓 known
+  - Transport-agnostic: 🎓 known
+  - Framework-agnostic: 🎓 known
   - Code coverage
-  - Cohesion
-  - Coupling
+  - Cohesion: 🎓 known
+  - Coupling: 🎓 known
   - Cyclomatic complexity
   - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Quality: 🎓 known
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer: 👂 heard
+  - Isolation between layer: 🎓 known
   - Domain-specific language (DSL)
   - System vs applied code
-  - Multilayer approach: 👂 heard
+  - Multilayer approach: 🎓 known
   - Hexagonal architecture: 👂 heard
   - Separation of concerns (SoC)
   - Metaprogramming: 👂 heard
@@ -41,7 +41,7 @@
   - Clean architecture: 👂 heard
   - Domain-driven design (DDD)
   - Pub/sub
-  - Message brocker
+  - Message brocker: 🎓 known
   - Agent
   - Service locator
   - Message Queue (MQ)
@@ -93,9 +93,9 @@
   - Project scope
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices
+  - Microservices: 🎓 known
   - Process choreography
-  - Service orchestration
+  - Service orchestration: 🎓 known
   - Data warehouse
   - Business Intelligence
   - OLAP
