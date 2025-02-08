@@ -1,9 +1,9 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop: 🎓 known
-  - `try..catch`: 🖐️ used
-  - Non-blocking: 🖐️ used
+  - Event loop: e
+  - `try..catch`: e
+  - Non-blocking: e
   - Async I/O: 🖐️ used
   - Thread pool
   - Pattern Reactor
@@ -12,24 +12,24 @@
   - kqueue
   - Completion ports
   - Event ports
-  - libuv
-  - Race conditions
+  - libuv: k
+  - Race conditions: h
   - Dead locks
   - Live locks
-  - Concurrent programming
-  - Parallel programming
+  - Concurrent programming: e
+  - Parallel programming: e
   - Actor Model
-  - Thread
-  - Process
+  - Thread: e
+  - Process: e
 - Async contracts
-  - Callbacks: 🎓 known
-  - Callback-last-error-first: 🎓 known
+  - Callbacks: e
+  - Callback-last-error-first: e
   - Thenable
-  - Promise: 🖐️ used
-  - Async/await: 🖐️ used
+  - Promise: k
+  - Async/await: e
   - Future
   - Deferred
-  - Sync generator
+  - Sync generator: k
   - Async Generator
   - Async Iterator
   - Event: 🎓 known
@@ -38,7 +38,7 @@
   - Signal
   - Stream
   - Chain of responsibility
-  - Middleware: 🖐️ used
+  - Middleware: k
   - Locks
 - Async adapters and utils
   - callbackify
@@ -58,7 +58,7 @@
   - Semaphore
   - Mutex
   - Spin Lock
-- JavaScript & Node.js specific
+- JavaScript & Node.js specific: k
   - Timers: 🎓 known
   - `setImmediate`
   - `nextTick`
@@ -68,8 +68,8 @@
   - Promise double resolve
   - Atomics
   - High resolution clock
-  - Callback hell
-  - Promise hell
+  - Callback hell: e
+  - Promise hell: e
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await
@@ -79,10 +79,10 @@
 - Techniques
   - Async.js library
   - RxJS library
-  - Promise.all
-  - Promise.allSettled
-  - Promise.race
-  - Promise.any
+  - Promise.all: u
+  - Promise.allSettled: h
+  - Promise.race: k
+  - Promise.any: u
   - Web Locks API
   - IPC
   - Channel API
