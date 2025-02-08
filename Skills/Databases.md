@@ -1,37 +1,37 @@
 ## Databases
 
 - Theory and concepts
-  - Data types: 🖐️ used
+  - Data types: e
   - Performance tuning: 🖐️ used
-  - Migrations: 🖐️ used
-  - Schema versioning
-  - Backup and recovery: 🖐️ used
-  - Database scalability: 🖐️ used
-  - Relational databases: 🖐️ used
-  - Key-value store: 🎓 known
+  - Migrations: e
+  - Schema versioning: h
+  - Backup and recovery: e
+  - Database scalability: e
+  - Relational databases: e
+  - Key-value store: e
   - Tuple store
-  - Graph databases
-  - Object databases
-  - Column databases
-  - Navigational databases
-  - Hierarchical databases
-  - In-memory databases: 🎓 known
+  - Graph databases: h
+  - Object databases: u
+  - Column databases: u
+  - Navigational databases: h
+  - Hierarchical databases: h
+  - In-memory databases: 🎓 u
   - Inverted index
-  - Data control language (DCL)
-  - Data definition language (DDL): 🎓 known
-  - Data manipulation language (DML): 🎓 known
-  - Data query language (DQL): 🎓 known
+  - Data control language (DCL): k
+  - Data definition language (DDL): u
+  - Data manipulation language (DML): u
+  - Data query language (DQL): u
 - Relational
-  - Entity-Relationship Diagram
-  - Normal forms
-  - Indexing
-  - Primary keys
-  - Foreign keys
-  - Transactions
-  - Views
-  - Subqueries
-  - Stored procedures: 🎓 known
-  - SQL functions
+  - Entity-Relationship Diagram: u
+  - Normal forms: u
+  - Indexing: u
+  - Primary keys: u
+  - Foreign keys: u
+  - Transactions: u
+  - Views: u
+  - Subqueries: u
+  - Stored procedures: u
+  - SQL functions: u
   - Materialized views
   - Replications: 🎓 known
   - Virtualization
