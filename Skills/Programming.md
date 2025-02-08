@@ -12,7 +12,7 @@
   - Programm explained: 🎓 known
   - Programming paradigm: 🎓 known
   - Programming language: 🎓 known
-  - Contract
+  - Contract: e
   - Module: 🙋 explained
   - Library: 🙋 explained
   - Package: 🙋 explained
@@ -36,8 +36,8 @@
   - Identifier: 🙋 explained
   - Variable: 🙋 explained
   - Constant: 🙋 explained
-  - Scalar
-  - Literal
+  - Scalar: e
+  - Literal: e
   - Expression: 🙋 explained
   - Heap: 🙋 explained
   - Function: 🙋 explained
@@ -66,14 +66,14 @@
   - Return early: 🙋 explained
   - Fail-fast: 🙋 explained
 - Types
-  - Primitive types
-  - Reference types
-  - Type systems
-  - Strong typing
-  - Weak typing
+  - Primitive types: e
+  - Reference types: e
+  - Type systems: e
+  - Strong typing: e
+  - Weak typing: e
   - Duck typing
-  - Static typing: 👂 heard
-  - Dynamic typing: 👂 heard
+  - Static typing: e
+  - Dynamic typing: e
   - Nominal typing
   - Structural typing: 👂 heard
   - Explicit typing
@@ -86,44 +86,44 @@
   - Parameter: 🙋 explained
   - Pure function: 🙋 explained
   - Lambda expression: 🙋 explained
-  - Side effects: 👂 heard
+  - Side effects: e
   - Closure: 🙋 explained
   - Partial application
-  - Currying
+  - Currying: e
   - Higher order
   - Recursion: 🙋 explained
   - Tail call optimisation
-  - Callback: 🖐️ used
+  - Callback: e
   - Listener: 🖐️ used
   - Composition
   - Pipe: 🖐️ used
-  - Memoize
-  - Wrapper
-  - Functor
-  - Monad
-  - Monoid
-  - Generator
-  - Coroutine
+  - Memoize: h
+  - Wrapper: h
+  - Functor: h
+  - Monad: h
+  - Monoid: h
+  - Generator: e
+  - Coroutine: h
 - Data structures
-  - Array
-  - Structure
+  - Array: e
+  - Structure: e
   - Record
-  - Enum
-  - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
+  - Enum: e
+  - Instance: e
+  - Object: e
+  - Collection: e
+  - Set: e
+  - Hash table: e
+  - Linked list: e
   - Doubly list
   - Unrolled list
   - Circular list
   - Queue: 🙋 explained
   - Stack: 🙋 explained
   - Deque
-  - Tree: 🎓 known
-  - Graph: 🎓 known
-  - Iterator: 🎓 known
+  - Tree: e
+  - Graph: e
+  - Iterator: e
   - Mutable state: 👂 heard
   - Immutable state: 👂 heard
   - Serialization: 👂 heard
@@ -132,13 +132,13 @@
   - JSON5: 🙋 explained
   - YAML: 🙋 explained
 - Networking
-  - DNS: 🎓 known
-  - CDN: 🎓 known
+  - DNS: e
+  - CDN: e
   - CORS: 🎓 known
-  - IPv4: 🎓 known
+  - IPv4: e
   - IPv6: 🎓 known
-  - NAT: 🎓 known
-  - URL: 🎓 known
+  - NAT: e
+  - URL: e
   - URN
   - URI: 🎓 known
 - Process and tools
@@ -178,12 +178,12 @@
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti: 🎓 known
-  - Silver bullet: 🎓 known
+  - Spaghetti: e
+  - Silver bullet: e
   - Not invented here
-  - Dead code: 🎓 known
+  - Dead code: e
   - Unreachable code
-  - Duplicate code: 🎓 known
+  - Duplicate code: e
   - Premature optimization
   - Micro-optimization
   - Nested loops
@@ -208,18 +208,18 @@
   - CLR
   - Mono
 - Operating systems
-  - Interrupts
-  - Drivers
-  - Kernel
+  - Interrupts: e
+  - Drivers: e
+  - Kernel: e
   - Ring
   - Virtual memory: 🎓 known
-  - File system: 🎓 known
-  - Linux: 🎓 known
-  - Unix: 🎓 known
-  - BSD: 🎓 known
+  - File system: 🎓 e
+  - Linux: 🎓 e
+  - Unix: 🎓 e
+  - BSD: 🎓 e
   - MacOS: 🎓 known
-  - Windows: 🎓 known
-  - Real-time OS: 👂 heard
+  - Windows: 🎓 e
+  - Real-time OS: 👂 k
   - Embedded OS
 - Standards
   - ASCII: 🎓 known
